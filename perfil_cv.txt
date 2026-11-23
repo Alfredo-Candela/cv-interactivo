@@ -1,0 +1,109 @@
+# BASE DE CONOCIMIENTO - PERFIL PROFESIONAL DE ALFREDO CANDELA ESTELLÉS
+(Documento estructurado para Asistente Virtual RAG - Información 100% verificada)
+
+============================================================
+1. DATOS PERSONALES Y PROFESIONALES
+============================================================
+- Nombre completo: Alfredo Candela Estellés
+- Titular profesional: Estudiante de último año del grado en ADE y Data Science
+- Ciudad de residencia: Madrid, España
+- Enlaces profesionales:
+  * LinkedIn: https://www.linkedin.com/in/alfredo-candela-estellés-bba163355
+  * GitHub: https://github.com/Alfredo-Candela
+  * Email de contacto profesional: ce.alfredo2004@gmail.com
+- Nota de privacidad: Teléfono y domicilio omitidos voluntariamente en publicaciones públicas.
+
+Resumen:
+Estudiante de último año del doble grado en Administración y Dirección de Empresas (ADE) y Data Science en ESIC University, actualmente desarrollándose como Audit Intern en EY (Ernst & Young). Perfil versátil que fusiona visión de negocio, rigurosidad contable y competencias en Ciencia de Datos, Inteligencia Artificial Generativa y programación en Python/SQL.
+
+============================================================
+2. FORMACIÓN ACADÉMICA
+============================================================
+1. ESIC University (Madrid, España)
+   - Titulación: Grado en ADE y Data Science
+   - Periodo: 2022 - Actualidad (Último curso)
+   - Rendimiento: Nota media últimos 2 años: 8,0 / 10
+   - Distinciones: Mención honorífica en Análisis de balances
+   - Asignaturas y materias clave: Análisis de balances, Data Science, Machine Learning, Programación, Inteligencia Artificial, Bases de datos, Finanzas corporativas.
+
+2. ORT Uruguay (Montevideo, Uruguay)
+   - Programa: Intercambio universitario internacional (4.º curso)
+   - Periodo: 2025
+   - Rendimiento: Nota media: 8,3 / 10
+   - Enfoque: Adaptabilidad intercultural y perspectiva empresarial internacional.
+
+3. Goffstown High School (New Hampshire, Estados Unidos)
+   - Titulación: 2.º de Bachillerato (Año escolar completo)
+   - Periodo: 2021 - 2022
+   - Rendimiento: Nota media: 9,1 / 10
+   - Distinciones: MVP del equipo Varsity Soccer; inmersión total en inglés.
+
+============================================================
+3. EXPERIENCIA PROFESIONAL Y VOLUNTARIADO
+============================================================
+1. Ernst & Young (EY) (Madrid, España)
+   - Puesto: Audit Intern
+   - Periodo: 01/2026 - 07/2026
+   - Funciones: Auditoría externa, revisión y análisis financiero de cuentas anuales para clientes de sectores de energía, inversión y retail. Supervisión de normativas contables vigentes.
+
+2. ESIC University (Madrid, España)
+   - Puesto: Field Sales / Asesor Académico
+   - Periodo: 03/2025
+   - Funciones: Representación institucional en la feria educativa AULA 2025, orientación vocacional a futuros universitarios en carreras de negocios y datos, y soporte en marketing universitario.
+
+3. APS MásESIC (Madrid, España)
+   - Actividad: Voluntariado social
+   - Periodo: 01/2025 - 07/2025
+   - Funciones: Desarrollo de proyecto social con la fundación Psico Ballet Maite León; diseño de comunicación y organización de jornada de puertas abiertas para la inclusión de personas con discapacidad.
+
+============================================================
+4. HABILIDADES TÉCNICAS Y COMPETENCIAS DIGITALES
+============================================================
+- Lenguajes de programación: Python, SQL
+- Inteligencia Artificial: IA Generativa (LLMs), Agentes de IA, Prompt Engineering
+- Business Intelligence y Finanzas: Power BI, Excel avanzado, Análisis de Balances
+- Herramientas y control de versiones: Git, GitHub, Jupyter Notebooks, Pandas, NumPy
+- Bases de datos: SQL (modelado relacional y consultas analíticas)
+- Cloud y plataformas: Repositorios en GitHub; no constan certificaciones cloud formales en el CV (pendiente de confirmación).
+
+============================================================
+5. PROYECTOS REALES Y DESTACADOS
+============================================================
+1. Proyecto "Marketing Experience"
+   - Descripción: Plan estratégico de marketing y desarrollo de propuesta de negocio integral para un reto corporativo.
+   - Tecnologías/Metodologías: Análisis de mercado, segmentación, comunicación estratégica.
+   - Resultado: Galardonado con el Premio a la mejor propuesta global.
+
+2. Proyecto Data Science & ML: Exploratory Data Analysis Titanic
+   - Descripción: Pipeline de análisis exploratorio (EDA), limpieza y preprocesamiento de datos para predicción de supervivencia.
+   - Tecnologías: Python, Jupyter Notebook, Pandas, NumPy, Git.
+   - Resultado: Repositorio público en GitHub (Alfredo-Candela/Proyecto_Titanic) con notebooks reproducibles.
+
+3. Proyecto Social Psico Ballet Maite León
+   - Descripción: Campaña de sensibilización y visibilidad para fundación inclusiva de personas con discapacidad.
+   - Tecnologías/Metodologías: Gestión de proyectos, comunicación social, organización de eventos.
+   - Resultado: Jornada de puertas abiertas de gran impacto en la comunidad universitaria y local.
+
+============================================================
+6. IDIOMAS Y CERTIFICACIONES
+============================================================
+- Idiomas:
+  * Español: Nativo
+  * Inglés: Nivel C1 (Avanzado / Profesional fluido, acreditado por bachillerato en EE.UU.)
+- Certificaciones:
+  * Mención honorífica en Análisis de balances (ESIC University).
+  * No constan certificaciones técnicas externas adicionales en el CV (el asistente no debe inventar certificados AWS, GCP, etc.).
+
+============================================================
+7. HABILIDADES BLANDAS Y LOGROS
+============================================================
+- Logros: Premio propuesta global Marketing Experience, Mención honorífica en balances, jugador federado en fútbol 11 en CF Intercity, MVP Varsity Soccer en Goffstown HS (EE.UU.).
+- Habilidades blandas: Capacidad de esfuerzo, perseverancia deportiva, liderazgo de equipos, comunicación intercultural y empatía social.
+- Intereses: Inteligencia artificial aplicada a empresas, economía y finanzas, automatización, nuevas tecnologías y deportes.
+
+============================================================
+8. DISPONIBILIDAD
+============================================================
+- Estado: Estudiante de último curso y realizando prácticas de auditoría en EY hasta julio de 2026.
+- Modalidad: Presencial en Madrid, híbrido o remoto.
+- Fechas exactas: Pendiente de confirmación para fechas posteriores a julio de 2026 o compatibilidad horaria específica. Contactar directamente por email o LinkedIn para acordar condiciones.

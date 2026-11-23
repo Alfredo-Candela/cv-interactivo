@@ -1,0 +1,13 @@
+# Archivos de respaldo y temporales
+_backup_control_gastos/
+*.log
+.DS_Store
+Thumbs.db
+
+# Privacidad: No subir el CV original en PDF ni el PDF del enunciado
+*.pdf
+
+# Variables de entorno y credenciales
+.env
+.env.local
+*.key

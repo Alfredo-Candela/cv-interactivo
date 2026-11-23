@@ -1,0 +1,154 @@
+{
+  "datos_personales": {
+    "nombre": "Alfredo Candela Estellés",
+    "titular_profesional": "Estudiante de último año del grado en ADE y Data Science",
+    "ciudad": "Madrid, España",
+    "contacto_profesional": {
+      "email": "ce.alfredo2004@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/alfredo-candela-estell%C3%A9s-bba163355",
+      "github": "https://github.com/Alfredo-Candela"
+    },
+    "resumen_ejecutivo": "Estudiante de último curso del doble grado en ADE y Data Science en ESIC University, con experiencia en auditoría financiera en EY (Ernst & Young). Perfil híbrido con sólidas competencias analíticas, financieras y tecnológicas, con especial interés y formación en Inteligencia Artificial generativa, automatización de procesos y ciencia de datos aplicada a la toma de decisiones empresariales."
+  },
+  "formacion_academica": [
+    {
+      "institucion": "ESIC University",
+      "ubicacion": "Madrid, España",
+      "titulo": "Grado en ADE y Data Science",
+      "periodo": "2022 - Actualidad (Último curso)",
+      "nota_media": "8,0 (últimos 2 años)",
+      "distinciones": "Mención honorífica en Análisis de balances",
+      "areas_relevantes": [
+        "Análisis de balances y estados financieros",
+        "Data Science y Machine Learning",
+        "Programación y Algoritmia",
+        "Inteligencia Artificial y Agentes",
+        "Bases de Datos Relacionales y SQL",
+        "Economía y Dirección Financiera"
+      ]
+    },
+    {
+      "institucion": "ORT Uruguay",
+      "ubicacion": "Montevideo, Uruguay",
+      "titulo": "Programa de intercambio académico internacional (4.º curso)",
+      "periodo": "2025",
+      "nota_media": "8,3",
+      "distinciones": "Inmersión académica internacional y adaptación global"
+    },
+    {
+      "institucion": "Goffstown High School",
+      "ubicacion": "New Hampshire, Estados Unidos",
+      "titulo": "2.º de Bachillerato (Intercambio anual completo)",
+      "periodo": "2021 - 2022",
+      "nota_media": "9,1",
+      "distinciones": "Inmersión lingüística y cultural total; MVP del equipo Varsity Soccer"
+    }
+  ],
+  "experiencia_laboral": [
+    {
+      "empresa": "Ernst & Young (EY)",
+      "ubicacion": "Madrid, España",
+      "puesto": "Audit Intern",
+      "periodo": "01/2026 - 07/2026",
+      "responsabilidades": [
+        "Participación directa en procesos de auditoría externa, revisión contable y análisis financiero para clientes de sectores estratégicos como energía, inversión y retail.",
+        "Verificación de estados financieros, cuentas anuales y verificación del estricto cumplimiento de la normativa contable y regulatoria aplicable."
+      ]
+    },
+    {
+      "empresa": "ESIC University",
+      "ubicacion": "Madrid, España",
+      "puesto": "Field Sales / Orientación Universitaria",
+      "periodo": "03/2025",
+      "responsabilidades": [
+        "Representación de ESIC University en la feria educativa internacional AULA 2025, asesorando a futuros estudiantes sobre la oferta académica en ADE y tecnología.",
+        "Apoyo activo en acciones de marketing, comunicación estratégica y captación de nuevo talento universitario."
+      ]
+    }
+  ],
+  "actividades_y_voluntariado": [
+    {
+      "organizacion": "APS MásESIC",
+      "ubicacion": "Madrid, España",
+      "rol": "Voluntariado social",
+      "periodo": "01/2025 - 07/2025",
+      "descripcion": "Desarrollo de un proyecto de impacto social en estrecha colaboración con la fundación Psico Ballet Maite León, coordinando acciones de comunicación y organizando una jornada de puertas abiertas para amplificar la visibilidad de su trabajo de inclusión con personas con discapacidad."
+    }
+  ],
+  "habilidades_tecnicas": {
+    "lenguajes": ["Python", "SQL"],
+    "inteligencia_artificial": ["IA Generativa (LLMs)", "Agentes de IA", "Prompt Engineering"],
+    "analisis_y_bi": ["Power BI", "Excel avanzado", "Análisis Financiero y de Balances"],
+    "herramientas_y_metodologias": ["Git / GitHub", "Jupyter Notebooks", "Pandas", "NumPy"],
+    "bases_de_datos": ["SQL (consultas analíticas y relacionales)"],
+    "cloud": "No constan plataformas cloud específicas en el CV original; pendiente de confirmación (ej. Google Cloud / AWS / Azure)."
+  },
+  "proyectos_reales": [
+    {
+      "nombre": "Proyecto 'Marketing Experience'",
+      "tipo": "Reto Estratégico y de Negocio",
+      "descripcion": "Desarrollo de un plan integral de estrategia comercial, análisis de mercado y propuesta de valor disruptiva para un caso empresarial de alta exigencia.",
+      "tecnologias": ["Análisis de mercado", "Plan de marketing estratégico", "Presentación ejecutiva"],
+      "resultado": "Galardonado con el 'Premio a la mejor propuesta global' otorgado por el tribunal evaluador."
+    },
+    {
+      "nombre": "Proyecto Data Science: Análisis Exploratorio y Pipeline EDA (Titanic)",
+      "tipo": "Ciencia de Datos y Machine Learning",
+      "descripcion": "Pipeline analítico desarrollado en Python enfocado en la exploración profunda de datos (EDA), tratamiento de valores atípicos y nulos, e ingeniería de variables para predecir supervivencia.",
+      "tecnologias": ["Python", "Pandas", "NumPy", "Jupyter Notebook", "Git/GitHub"],
+      "resultado": "Código estructurado y reproducible publicado en GitHub (repositorio Alfredo-Candela/Proyecto_Titanic) con notebooks de análisis y preprocesamiento de datos."
+    },
+    {
+      "nombre": "Campaña de Difusión e Inclusión Psico Ballet Maite León",
+      "tipo": "Impacto Social y Comunicación",
+      "descripcion": "Proyecto colaborativo para crear estrategias de visibilidad pública, relaciones comunitarias y gestión logística para personas con discapacidad.",
+      "tecnologias": ["Gestión de proyectos", "Comunicación inclusiva", "Organización de eventos"],
+      "resultado": "Ejecución exitosa de una jornada de puertas abiertas que incrementó significativamente el alcance y conocimiento de la labor de la fundación."
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Inglés",
+      "nivel": "C1 (Avanzado / Profesional)",
+      "contexto": "Avalado por curso completo de 2.º de Bachillerato cursado íntegramente en Goffstown High School, New Hampshire, EE.UU. (con nota media 9,1)."
+    }
+  ],
+  "certificaciones": [
+    {
+      "nombre": "Mención honorífica en Análisis de balances",
+      "emisor": "ESIC University",
+      "estado": "Acreditado académicamente",
+      "nota": "No constan en el CV certificaciones externas de proveedores tecnológicos; se ruega no asumir certificaciones adicionales."
+    }
+  ],
+  "logros_y_habilidades_blandas": {
+    "logros_destacados": [
+      "Premio a la mejor propuesta global en 'Marketing Experience'",
+      "Mención honorífica en Análisis de balances (ESIC)",
+      "Jugador federado en fútbol 11 en el CF Intercity",
+      "MVP (Most Valuable Player) del equipo Varsity Soccer de Goffstown High School (EE.UU.)"
+    ],
+    "habilidades_blandas": [
+      "Capacidad de esfuerzo y disciplina de alto rendimiento (forjada en el deporte federado y excelencia académica)",
+      "Liderazgo, motivación y coordinación de equipos multidisciplinares",
+      "Alta capacidad de adaptación y comunicación intercultural (experiencia en EE.UU. y Uruguay)",
+      "Orientación a resultados y rigor metodológico en finanzas y tecnología"
+    ],
+    "intereses": [
+      "Inteligencia Artificial y sus aplicaciones empresariales",
+      "Economía y mercados financieros",
+      "Automatización de procesos y nuevas tecnologías",
+      "Deportes de equipo y superación personal"
+    ]
+  },
+  "disponibilidad": {
+    "estado_actual": "Estudiante de último curso en ESIC University y Audit Intern en EY hasta julio de 2026.",
+    "incorporacion": "Pendiente de confirmación de fechas y horarios específicos por parte de Alfredo (abierto a convenios de prácticas, jornada parcial o incorporación formal tras culminar su periodo de prácticas actual en EY).",
+    "modalidad": "Madrid (presencial / híbrido) o trabajo en remoto.",
+    "nota_asistente": "Si el reclutador consulta fechas exactas o condiciones salariales, el asistente debe indicar con claridad y cortesía que dichos términos deben coordinarse directamente con Alfredo a través de su email o LinkedIn."
+  }
+}
